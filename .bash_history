@@ -213,3 +213,187 @@ git status
 
 clear
 git log
+clear
+git status
+git remote -v
+clear
+cd zero_day
+git status
+git checkout master
+git checkout main
+clear
+git log
+git commit -m 'My first commit'
+git push
+clear
+git clone clear
+clear
+pwd
+git clone https://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@github.com/AyubaBenyin/zero_day.git
+git commit -m 'My first commit'
+git add README.md
+git commit -m "My first commit"
+git push
+git push --set-upstream origin master
+clear
+git status
+ls
+git log
+git remote -v
+git add .
+git add README.md
+git commit -m "My first commit"
+git add .
+git push
+git remote https://github.com/AyubaBenyin/zero_day.git
+git remote add https://github.com/AyubaBenyin/zero_day.git
+git push --set-upstream origin master
+git push
+git remote add https://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@github.com/AyubaBenyin/zero_day.git
+git remote -v
+git status
+git init
+git add .
+git checkout main
+clear
+ls
+cat README
+clear
+ls
+cat README.md
+git clone https://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@github.com/AyubaBenyin/zero_day.git
+ls -a
+cd ..
+ls
+rm -rf zero_day
+ls
+cd zero_day
+clear
+pwd
+git init
+git clone https://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@github.com/AyubaBenyin/zero_day.git
+cd zero_day
+cd ..
+pwd
+ls
+touch README.md
+vi README.md
+git add .
+git add README.md
+git commit -m "My first commit"
+git push
+git remote add https://github.com/AyubaBenyin/zero_day.git
+clear
+ls
+rm -rf zero_day
+rm -rf README.md
+ls
+ls -a
+clear
+ls
+git status
+git add .
+git commit "My first commit"
+git commit -m "My first commit"
+git push
+git config --global user.name "AyubaBenyin"
+git config --global user.email "ayubayawbenyin@yahoo.com"
+git push
+git remote -v
+git push --all --set-upstream origin
+git remote set-url https://github.com/AyubaBenyin/zero_day.git
+git remote set-url -- add README.me https://github.com/AyubaBenyin/zero_day.git
+clear
+pwd
+ls
+clear
+pwd
+ls
+clear
+pwd
+ls -a
+cd .ssh
+ls -a
+cat authorized_keys
+cat id_rsa.pub
+cat id_rsa
+clear
+ls -a
+type
+which
+clear
+type type
+type ls
+type cp
+which ls
+help -m cd
+mkdir --help
+man ls
+clear
+bash --version
+ping google.com
+fg ping
+ping google.com
+CLEAR
+cd ..
+pwd
+set -o vi
+set -0 vi
+clear
+set -o emacs
+set -o vi
+clear
+uname
+uname -a
+#!/bin/sh -x
+#!/bin/sh -pwd
+pwd
+./0-current_working_directory
+#!/bin/bash -pwd
+clear
+mkdir 0x00-shell_basics
+ls
+cd 0x00-shell_basics
+touch 0-current_working_directory
+vi 0-current_working_directory
+chmod u+x 0-current_working_directory
+touch 1-listit
+vi 1-listit
+chmod u+x 1-listit
+cd ..
+cd
+ls -a
+ls -a*
+ls *
+ls -d .*
+ls -d .b*
+ls -na
+ls -la
+cd /tmp/
+cd ..
+<<<<<<< HEAD
+<<< HEAD
+ls -lh
+ls -a
+ls -la
+-l
+ls -l
+ls -al
+ls -a -l
+ls -la /boot
+ls -l /boot
+clear
+uname
+uname -a
+ls -la
+cd .ssh
+clear
+ls
+ls -la
+clear
+uname
+uname -a
+clear
+cd .ssh
+ls
+ssh-keygen
