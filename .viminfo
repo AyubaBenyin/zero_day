@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675907697,,"wq"
+|2,0,1675977274,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,50 @@
 # Registers:
 
 # File marks:
-'0  1  1  ~/README.md
-|4,48,1,1,1675907697,"~/README.md"
-'1  1  2  ~/README.md
-|4,49,1,2,1675907005,"~/README.md"
-'2  1  13  ~/zero_day/README.md
-|4,50,1,13,1675901318,"~/zero_day/README.md"
-'3  1  4  ~/zero_day/0-hello_ubuntu
-|4,51,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
-'4  1  4  ~/zero_day/0-hello_ubuntu
-|4,52,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
-'5  1  0  ~/zero_day/README.md
-|4,53,1,0,1675900912,"~/zero_day/README.md"
-'6  1  22  ~/README.md
-|4,54,1,22,1675899360,"~/README.md"
-'7  1  22  ~/README.md
-|4,55,1,22,1675899360,"~/README.md"
-'8  2  1  ~/0x00-shell_basics/1-listit
-|4,56,2,1,1675872007,"~/0x00-shell_basics/1-listit"
-'9  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,57,2,2,1675871729,"~/0x00-shell_basics/0-current_working_directory"
+'0  2  8  ~/0-01_future
+|4,48,2,8,1675977274,"~/0-01_future"
+'1  1  1  ~/zero_day/README.md
+|4,49,1,1,1675908118,"~/zero_day/README.md"
+'2  1  1  ~/README.md
+|4,50,1,1,1675907697,"~/README.md"
+'3  1  2  ~/README.md
+|4,51,1,2,1675907005,"~/README.md"
+'4  1  13  ~/zero_day/README.md
+|4,52,1,13,1675901318,"~/zero_day/README.md"
+'5  1  4  ~/zero_day/0-hello_ubuntu
+|4,53,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+'6  1  4  ~/zero_day/0-hello_ubuntu
+|4,54,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+'7  1  0  ~/zero_day/README.md
+|4,55,1,0,1675900912,"~/zero_day/README.md"
+'8  1  0  ~/zero_day/README.md
+|4,56,1,0,1675900912,"~/zero_day/README.md"
+'9  1  22  ~/README.md
+|4,57,1,22,1675899360,"~/README.md"
 
 # Jumplist (newest first):
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
 -'  1  1  ~/README.md
 |4,39,1,1,1675907697,"~/README.md"
+-'  1  1  ~/README.md
+|4,39,1,1,1675907697,"~/README.md"
+-'  1  1  ~/README.md
+|4,39,1,1,1675907697,"~/README.md"
+-'  1  1  ~/README.md
+|4,39,1,1,1675907697,"~/README.md"
+-'  1  2  ~/README.md
+|4,39,1,2,1675907005,"~/README.md"
+-'  1  2  ~/README.md
+|4,39,1,2,1675907005,"~/README.md"
+-'  1  2  ~/README.md
+|4,39,1,2,1675907005,"~/README.md"
 -'  1  2  ~/README.md
 |4,39,1,2,1675907005,"~/README.md"
 -'  1  13  ~/zero_day/README.md
@@ -59,6 +79,14 @@
 |4,39,1,13,1675901318,"~/zero_day/README.md"
 -'  1  13  ~/zero_day/README.md
 |4,39,1,13,1675901318,"~/zero_day/README.md"
+-'  1  13  ~/zero_day/README.md
+|4,39,1,13,1675901318,"~/zero_day/README.md"
+-'  1  13  ~/zero_day/README.md
+|4,39,1,13,1675901318,"~/zero_day/README.md"
+-'  1  13  ~/zero_day/README.md
+|4,39,1,13,1675901318,"~/zero_day/README.md"
+-'  1  13  ~/zero_day/README.md
+|4,39,1,13,1675901318,"~/zero_day/README.md"
 -'  1  4  ~/zero_day/0-hello_ubuntu
 |4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
 -'  1  4  ~/zero_day/0-hello_ubuntu
@@ -75,6 +103,102 @@
 |4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
 -'  1  4  ~/zero_day/0-hello_ubuntu
 |4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
+-'  1  4  ~/zero_day/0-hello_ubuntu
+|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
 -'  1  4  ~/zero_day/0-hello_ubuntu
 |4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
 -'  1  4  ~/zero_day/0-hello_ubuntu
@@ -123,132 +247,23 @@
 |4,39,1,0,1675900912,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
 |4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  1  22  ~/README.md
-|4,39,1,22,1675899360,"~/README.md"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
--'  2  1  ~/0x00-shell_basics/1-listit
-|4,39,2,1,1675872007,"~/0x00-shell_basics/1-listit"
 
 # History of marks within files (newest to oldest):
+
+> ~/0-01_future
+	*	1675977269	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> ~/zero_day/README.md
+	*	1675908114	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	3
+	+	1	1
 
 > ~/README.md
 	*	1675907693	0
@@ -256,14 +271,6 @@
 	^	1	2
 	.	1	1
 	+	1	1
-
-> ~/zero_day/README.md
-	*	1675901315	0
-	"	1	13
-	^	1	14
-	.	1	13
-	+	1	3
-	+	1	13
 
 > ~/zero_day/0-hello_ubuntu
 	*	1675901271	0
