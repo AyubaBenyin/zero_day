@@ -1,1 +1,0 @@
-ubunto vagrant
