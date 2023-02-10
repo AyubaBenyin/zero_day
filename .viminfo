@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675977274,,"wq"
+|2,0,1675989099,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,216 @@
 # Registers:
 
 # File marks:
-'0  2  8  ~/0-01_future
-|4,48,2,8,1675977274,"~/0-01_future"
-'1  1  1  ~/zero_day/README.md
-|4,49,1,1,1675908118,"~/zero_day/README.md"
-'2  1  1  ~/README.md
-|4,50,1,1,1675907697,"~/README.md"
-'3  1  2  ~/README.md
-|4,51,1,2,1675907005,"~/README.md"
-'4  1  13  ~/zero_day/README.md
-|4,52,1,13,1675901318,"~/zero_day/README.md"
-'5  1  4  ~/zero_day/0-hello_ubuntu
-|4,53,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
-'6  1  4  ~/zero_day/0-hello_ubuntu
-|4,54,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
-'7  1  0  ~/zero_day/README.md
-|4,55,1,0,1675900912,"~/zero_day/README.md"
-'8  1  0  ~/zero_day/README.md
-|4,56,1,0,1675900912,"~/zero_day/README.md"
-'9  1  22  ~/README.md
-|4,57,1,22,1675899360,"~/README.md"
+'0  2  35  ~/benyin.txt
+|4,48,2,35,1675989099,"~/benyin.txt"
+'1  3  29  ~/0-01_ayuba
+|4,49,3,29,1675988912,"~/0-01_ayuba"
+'2  3  8  ~/permission_everybody
+|4,50,3,8,1675988571,"~/permission_everybody"
+'3  3  21  ~/script
+|4,51,3,21,1675987921,"~/script"
+'4  2  8  ~/0-01_future
+|4,52,2,8,1675977274,"~/0-01_future"
+'5  1  1  ~/zero_day/README.md
+|4,53,1,1,1675908118,"~/zero_day/README.md"
+'6  1  1  ~/README.md
+|4,54,1,1,1675907697,"~/README.md"
+'7  1  2  ~/README.md
+|4,55,1,2,1675907005,"~/README.md"
+'8  1  13  ~/zero_day/README.md
+|4,56,1,13,1675901318,"~/zero_day/README.md"
+'9  1  4  ~/zero_day/0-hello_ubuntu
+|4,57,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
 
 # Jumplist (newest first):
+-'  2  35  ~/benyin.txt
+|4,39,2,35,1675989099,"~/benyin.txt"
+-'  1  0  ~/benyin.txt
+|4,39,1,0,1675989058,"~/benyin.txt"
+-'  3  29  ~/0-01_ayuba
+|4,39,3,29,1675988912,"~/0-01_ayuba"
+-'  3  29  ~/0-01_ayuba
+|4,39,3,29,1675988912,"~/0-01_ayuba"
+-'  1  0  ~/0-01_ayuba
+|4,39,1,0,1675988843,"~/0-01_ayuba"
+-'  1  0  ~/0-01_ayuba
+|4,39,1,0,1675988843,"~/0-01_ayuba"
+-'  3  8  ~/permission_everybody
+|4,39,3,8,1675988571,"~/permission_everybody"
+-'  3  8  ~/permission_everybody
+|4,39,3,8,1675988571,"~/permission_everybody"
+-'  3  8  ~/permission_everybody
+|4,39,3,8,1675988571,"~/permission_everybody"
+-'  3  8  ~/permission_everybody
+|4,39,3,8,1675988571,"~/permission_everybody"
+-'  1  0  ~/permission_everybody
+|4,39,1,0,1675988475,"~/permission_everybody"
+-'  1  0  ~/permission_everybody
+|4,39,1,0,1675988475,"~/permission_everybody"
+-'  1  0  ~/permission_everybody
+|4,39,1,0,1675988475,"~/permission_everybody"
+-'  1  0  ~/permission_everybody
+|4,39,1,0,1675988475,"~/permission_everybody"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  3  21  ~/script
+|4,39,3,21,1675987921,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
+-'  1  0  ~/script
+|4,39,1,0,1675987837,"~/script"
 -'  2  8  ~/0-01_future
 |4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  2  8  ~/0-01_future
+|4,39,2,8,1675977274,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
+-'  1  0  ~/0-01_future
+|4,39,1,0,1675977236,"~/0-01_future"
 -'  1  0  ~/0-01_future
 |4,39,1,0,1675977236,"~/0-01_future"
 -'  1  1  ~/zero_day/README.md
 |4,39,1,1,1675908118,"~/zero_day/README.md"
 -'  1  1  ~/zero_day/README.md
 |4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
+-'  1  1  ~/zero_day/README.md
+|4,39,1,1,1675908118,"~/zero_day/README.md"
 -'  1  1  ~/README.md
 |4,39,1,1,1675907697,"~/README.md"
 -'  1  1  ~/README.md
@@ -63,192 +243,41 @@
 |4,39,1,1,1675907697,"~/README.md"
 -'  1  1  ~/README.md
 |4,39,1,1,1675907697,"~/README.md"
--'  1  2  ~/README.md
-|4,39,1,2,1675907005,"~/README.md"
--'  1  2  ~/README.md
-|4,39,1,2,1675907005,"~/README.md"
--'  1  2  ~/README.md
-|4,39,1,2,1675907005,"~/README.md"
--'  1  2  ~/README.md
-|4,39,1,2,1675907005,"~/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  13  ~/zero_day/README.md
-|4,39,1,13,1675901318,"~/zero_day/README.md"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901274,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  4  ~/zero_day/0-hello_ubuntu
-|4,39,1,4,1675901059,"~/zero_day/0-hello_ubuntu"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
--'  1  0  ~/zero_day/README.md
-|4,39,1,0,1675900912,"~/zero_day/README.md"
+-'  1  1  ~/README.md
+|4,39,1,1,1675907697,"~/README.md"
+-'  1  1  ~/README.md
+|4,39,1,1,1675907697,"~/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/benyin.txt
+	*	1675989096	0
+	"	2	35
+	^	2	36
+	.	2	35
+	+	2	35
+
+> ~/0-01_ayuba
+	*	1675988909	0
+	"	3	29
+	^	3	30
+	.	3	29
+	+	3	29
+
+> ~/permission_everybody
+	*	1675988567	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	2	25
+	+	3	8
+
+> ~/script
+	*	1675987916	0
+	"	3	21
+	^	3	22
+	.	3	21
+	+	3	21
 
 > ~/0-01_future
 	*	1675977269	0

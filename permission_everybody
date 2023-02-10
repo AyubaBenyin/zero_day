@@ -1,0 +1,3 @@
+#!/bin/bash
+#changing file permission
+chmod 777
